@@ -1,4 +1,10 @@
+# dependencies
 node_modules
-.DS_store
+# logs
 *.log
+# build
 dist
+# environment variables
+ .env
+ 
+.DS_store

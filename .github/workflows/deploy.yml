@@ -8,7 +8,15 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Trigger Netlify Build Hook
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Load .env file
         run: |
-          curl -X POST -d {} https://api.netlify.com/build_hooks/6828a159ebf3b900d3be63f2
+          cat .env >> $GITHUB_ENV
+
+      - name: Trigger Netlify Build
+        run: |
+          curl -X POST -d '{}' "$NETLIFY_BUILD_HOOK_URL"
