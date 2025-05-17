@@ -1,17 +1,4 @@
-# Dependency folders
-**/node_modules/
-
-# Build output
-dist/
-.vitepress/dist/
-
-# VitePress temp files
-.vitepress/cache/
-.vitepress/temp/
-
-# VSCode settings
-.vscode/
-
-# OS-specific
-.DS_Store
-Thumbs.db
+node_modules
+.DS_store
+*.log
+dist
