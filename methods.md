@@ -1,4 +1,5 @@
 # 📚 METHODS
+
 ## 🔍 Metode Penelitian
 
 Penelitian ini dilakukan melalui tiga pendekatan utama sebagai berikut:
@@ -75,8 +76,8 @@ Pendekatan iteratif dan user-centered untuk menciptakan solusi desain yang relev
 
 ## ✅ Ringkasan
 
-| Pendekatan         | Tujuan                      | Metode Utama         | Output               |
-| ------------------ | --------------------------- | -------------------- | -------------------- |
-| 🔢 Kuantitatif     | Mengukur kemampuan membaca  | Survei               | Level kemampuan  Membaca Mahasiswa     |
-| 📋 Kualitatif      | Memahami kebutuhan pengguna | Wawancara, Observasi | Insight pengguna     |
-| 🎨 Design Thinking | Merancang solusi UI/UX      | 5 Tahapan Iteratif   | Prototipe & Feedback |
+| Pendekatan         | Tujuan                      | Metode Utama         | Output                            |
+| ------------------ | --------------------------- | -------------------- | --------------------------------- |
+| 🔢 Kuantitatif     | Mengukur kemampuan membaca  | Survei               | Level kemampuan Membaca Mahasiswa |
+| 📋 Kualitatif      | Memahami kebutuhan pengguna | Wawancara, Observasi | Insight pengguna                  |
+| 🎨 Design Thinking | Merancang solusi UI/UX      | 5 Tahapan Iteratif   | Prototipe & Feedback              |
