@@ -1,4 +1,4 @@
-# 📚 METHODS
+# 📚 Methods
 
 ## 🔍 Metode Penelitian
 
@@ -65,8 +65,6 @@ Pendekatan iteratif dan user-centered untuk menciptakan solusi desain yang relev
 ## 📊 Diagram Alur Penelitian
 
 ![Diagram Alur Penelitian](./public/flow-method.png)
-
-> 📝 Letakkan file gambar di folder `public` atau `docs/assets` dan sesuaikan path-nya.
 
 ## 📚 Referensi Tambahan
 

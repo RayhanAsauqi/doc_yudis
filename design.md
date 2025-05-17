@@ -67,13 +67,13 @@ Tahapan ini bertujuan menyusun Point of View dari pengguna berdasarkan hasil waw
 
 User persona dibuat berdasarkan wawancara dengan 5 mahasiswa Teknik Informatika:
 
-| Nama                   | Semester | Karakteristik Utama                                      |
-| ---------------------- | -------- | -------------------------------------------------------- |
-| Muhammad Fajri         | 8        | Sering mencari jurnal digital, aksesibilitas jadi fokus. |
-| Muhammad Farhan Andono | 8        | Butuh kecepatan dan integrasi referensi akademik.        |
-| Muhammad Ihsan         | 6        | Aktif menggunakan e-book untuk tugas kampus.             |
-| Firdayanti             | 4        | Senang membaca Wattpad dan Webtoon di waktu luang.       |
-| Izah                   | 2        | Baru mengenal aplikasi baca buku digital. Butuh panduan. |
+| Nama        | Semester | Karakteristik Utama                                      |
+| ----------- | -------- | -------------------------------------------------------- |
+| Responden 1 | 8        | Sering mencari jurnal digital, aksesibilitas jadi fokus. |
+| Responden 2 | 8        | Butuh kecepatan dan integrasi referensi akademik.        |
+| Responden 3 | 6        | Aktif menggunakan e-book untuk tugas kampus.             |
+| Responden 4 | 4        | Senang membaca Wattpad dan Webtoon di waktu luang.       |
+| Responden 5 | 2        | Baru mengenal aplikasi baca buku digital. Butuh panduan. |
 
 Berikut akan dipaparkan kedalam gambar setiap hasil user persona dari kelima responden mahasiswa.
 

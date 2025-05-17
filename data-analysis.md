@@ -20,6 +20,12 @@ Rata-rata skor diperoleh dengan membagi total skor yang dikumpulkan dengan jumla
 ```md
 Rata-rata Skor = Total Skor / Jumlah Responden
 ```
+> 📌 **Catatan** : Rumus untuk mendapatkan rata-rata skor
+
+```md
+Skor Normalisasi = Rata-rata skor / 500 X 100
+```
+> 📌 **Catatan** : Rumus untuk mendapatkan skor normalisasi
 
 2. **Perhitungan Rata-rata Skor:**
 
@@ -45,6 +51,6 @@ Penelitian ini mengukur kemampuan membaca mahasiswa Teknik Informatika Universit
 
 - Mengumpulkan total skor dari 37 responden sebanyak 3200 poin.
 - Menghitung rata-rata skor: 3200 ÷ 37 ≈ 86.49.
-- Menormalisasi skor ke skala 0–100 menggunakan rumus \((\text{Rata-rata Skor} / 500) \times 100\), menghasilkan nilai sekitar 17.30.
+- Menormalisasi skor ke skala 0–100, menghasilkan nilai sekitar 17.30.
 
 Hasil ini menunjukkan tingkat kemampuan membaca mahasiswa relatif terhadap standar internasional PISA dan dapat digunakan sebagai dasar untuk perbaikan literasi di kampus.

@@ -1,4 +1,4 @@
-# 📚 INTRODUCTION
+# 📚 Introduction
 
 ### 📝 Latar Belakang
 
