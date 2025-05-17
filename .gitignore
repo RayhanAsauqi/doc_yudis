@@ -1,21 +1,17 @@
-# Node dependencies
-node_modules/
-.pnpm/
-.pnpm-debug.log*
+# Dependency folders
+**/node_modules/
 
-# VitePress build output
-/dist/
-/.vitepress/cache/
+# Build output
+dist/
+.vitepress/dist/
 
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
+# VitePress temp files
+.vitepress/cache/
+.vitepress/temp/
 
-# System files
+# VSCode settings
+.vscode/
+
+# OS-specific
 .DS_Store
 Thumbs.db
-
-# Editor settings (optional)
-.vscode/
