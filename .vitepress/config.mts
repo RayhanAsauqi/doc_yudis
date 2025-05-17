@@ -19,9 +19,10 @@ export default defineConfig({
             items: [
               { text: "Data Analysis", link: "/data-analysis" },
               { text: "Design", link: "/design" },
-              { text: "Conclusion", link: "/conclusion" },
             ],
           },
+          { text: "Conclusion", link: "/conclusion" },
+          { text: "References", link: "/references" },
         ],
       },
     ],

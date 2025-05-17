@@ -1,4 +1,4 @@
-# 🎨 UI/UX DESIGN PROCESS
+# 🎨 UI/UX Design Process
 
 ## Emphatize Stage
 
